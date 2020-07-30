@@ -1,0 +1,7 @@
+C:\Users\Ali.Alizada\source\repos\ConsoleApp4\max_min_element_in_array\bin\Debug\max_min_element_in_array.exe.config
+C:\Users\Ali.Alizada\source\repos\ConsoleApp4\max_min_element_in_array\bin\Debug\max_min_element_in_array.exe
+C:\Users\Ali.Alizada\source\repos\ConsoleApp4\max_min_element_in_array\bin\Debug\max_min_element_in_array.pdb
+C:\Users\Ali.Alizada\source\repos\ConsoleApp4\max_min_element_in_array\obj\Debug\max_min_element_in_array.csproj.CoreCompileInputs.cache
+C:\Users\Ali.Alizada\source\repos\ConsoleApp4\max_min_element_in_array\obj\Debug\max_min_element_in_array.exe
+C:\Users\Ali.Alizada\source\repos\ConsoleApp4\max_min_element_in_array\obj\Debug\max_min_element_in_array.pdb
+C:\Users\Ali.Alizada\source\repos\ConsoleApp4\max_min_element_in_array\obj\Debug\max_min_element_in_array.csprojAssemblyReference.cache

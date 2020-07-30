@@ -1,0 +1,7 @@
+C:\Users\Ali.Alizada\source\repos\ConsoleApp4\Perfect_numbers\bin\Debug\Perfect_numbers.exe.config
+C:\Users\Ali.Alizada\source\repos\ConsoleApp4\Perfect_numbers\bin\Debug\Perfect_numbers.exe
+C:\Users\Ali.Alizada\source\repos\ConsoleApp4\Perfect_numbers\bin\Debug\Perfect_numbers.pdb
+C:\Users\Ali.Alizada\source\repos\ConsoleApp4\Perfect_numbers\obj\Debug\Perfect_numbers.csprojAssemblyReference.cache
+C:\Users\Ali.Alizada\source\repos\ConsoleApp4\Perfect_numbers\obj\Debug\Perfect_numbers.csproj.CoreCompileInputs.cache
+C:\Users\Ali.Alizada\source\repos\ConsoleApp4\Perfect_numbers\obj\Debug\Perfect_numbers.exe
+C:\Users\Ali.Alizada\source\repos\ConsoleApp4\Perfect_numbers\obj\Debug\Perfect_numbers.pdb

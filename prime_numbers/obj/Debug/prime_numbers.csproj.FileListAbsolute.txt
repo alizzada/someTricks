@@ -1,0 +1,6 @@
+C:\Users\Ali.Alizada\source\repos\ConsoleApp4\prime_numbers\bin\Debug\prime_numbers.exe.config
+C:\Users\Ali.Alizada\source\repos\ConsoleApp4\prime_numbers\bin\Debug\prime_numbers.exe
+C:\Users\Ali.Alizada\source\repos\ConsoleApp4\prime_numbers\bin\Debug\prime_numbers.pdb
+C:\Users\Ali.Alizada\source\repos\ConsoleApp4\prime_numbers\obj\Debug\prime_numbers.csproj.CoreCompileInputs.cache
+C:\Users\Ali.Alizada\source\repos\ConsoleApp4\prime_numbers\obj\Debug\prime_numbers.exe
+C:\Users\Ali.Alizada\source\repos\ConsoleApp4\prime_numbers\obj\Debug\prime_numbers.pdb
