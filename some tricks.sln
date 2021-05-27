@@ -13,7 +13,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Perfect_numbers", "Perfect_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "reverse_number_int", "reverse_number_int\reverse_number_int.csproj", "{56062281-321F-470F-8E67-2FFBE17BD8D3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test1", "test1\test1.csproj", "{A2A2E5AD-77D9-4D7D-85B6-F10474882CAE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayMiddleNumber", "test1\ArrayMiddleNumber.csproj", "{A2A2E5AD-77D9-4D7D-85B6-F10474882CAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci", "Fibonacci\Fibonacci.csproj", "{2004F6C4-54BA-43F7-8AD9-34CEDFE408E9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{A2A2E5AD-77D9-4D7D-85B6-F10474882CAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A2A2E5AD-77D9-4D7D-85B6-F10474882CAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A2A2E5AD-77D9-4D7D-85B6-F10474882CAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2004F6C4-54BA-43F7-8AD9-34CEDFE408E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2004F6C4-54BA-43F7-8AD9-34CEDFE408E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2004F6C4-54BA-43F7-8AD9-34CEDFE408E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2004F6C4-54BA-43F7-8AD9-34CEDFE408E9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

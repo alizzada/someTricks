@@ -4,3 +4,10 @@ C:\Users\Ali.Alizada\source\repos\ConsoleApp4\prime_numbers\bin\Debug\prime_numb
 C:\Users\Ali.Alizada\source\repos\ConsoleApp4\prime_numbers\obj\Debug\prime_numbers.csproj.CoreCompileInputs.cache
 C:\Users\Ali.Alizada\source\repos\ConsoleApp4\prime_numbers\obj\Debug\prime_numbers.exe
 C:\Users\Ali.Alizada\source\repos\ConsoleApp4\prime_numbers\obj\Debug\prime_numbers.pdb
+C:\Users\user\source\repos\someTricks\prime_numbers\bin\Debug\prime_numbers.exe.config
+C:\Users\user\source\repos\someTricks\prime_numbers\bin\Debug\prime_numbers.exe
+C:\Users\user\source\repos\someTricks\prime_numbers\bin\Debug\prime_numbers.pdb
+C:\Users\user\source\repos\someTricks\prime_numbers\obj\Debug\prime_numbers.csprojAssemblyReference.cache
+C:\Users\user\source\repos\someTricks\prime_numbers\obj\Debug\prime_numbers.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\someTricks\prime_numbers\obj\Debug\prime_numbers.exe
+C:\Users\user\source\repos\someTricks\prime_numbers\obj\Debug\prime_numbers.pdb
