@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\someTricks\HasSingleMaxElement\bin\Debug\net5.0\HasSingleMaxElement.exe
+C:\Users\user\source\repos\someTricks\HasSingleMaxElement\bin\Debug\net5.0\HasSingleMaxElement.deps.json
+C:\Users\user\source\repos\someTricks\HasSingleMaxElement\bin\Debug\net5.0\HasSingleMaxElement.runtimeconfig.json
+C:\Users\user\source\repos\someTricks\HasSingleMaxElement\bin\Debug\net5.0\HasSingleMaxElement.runtimeconfig.dev.json
+C:\Users\user\source\repos\someTricks\HasSingleMaxElement\bin\Debug\net5.0\HasSingleMaxElement.dll
+C:\Users\user\source\repos\someTricks\HasSingleMaxElement\bin\Debug\net5.0\ref\HasSingleMaxElement.dll
+C:\Users\user\source\repos\someTricks\HasSingleMaxElement\bin\Debug\net5.0\HasSingleMaxElement.pdb
+C:\Users\user\source\repos\someTricks\HasSingleMaxElement\obj\Debug\net5.0\HasSingleMaxElement.csprojAssemblyReference.cache
+C:\Users\user\source\repos\someTricks\HasSingleMaxElement\obj\Debug\net5.0\HasSingleMaxElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\someTricks\HasSingleMaxElement\obj\Debug\net5.0\HasSingleMaxElement.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\someTricks\HasSingleMaxElement\obj\Debug\net5.0\HasSingleMaxElement.AssemblyInfo.cs
+C:\Users\user\source\repos\someTricks\HasSingleMaxElement\obj\Debug\net5.0\HasSingleMaxElement.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\someTricks\HasSingleMaxElement\obj\Debug\net5.0\HasSingleMaxElement.dll
+C:\Users\user\source\repos\someTricks\HasSingleMaxElement\obj\Debug\net5.0\ref\HasSingleMaxElement.dll
+C:\Users\user\source\repos\someTricks\HasSingleMaxElement\obj\Debug\net5.0\HasSingleMaxElement.pdb
+C:\Users\user\source\repos\someTricks\HasSingleMaxElement\obj\Debug\net5.0\HasSingleMaxElement.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\someTricks\DigitIncreasing\bin\Debug\net5.0\DigitIncreasing.exe
+C:\Users\user\source\repos\someTricks\DigitIncreasing\bin\Debug\net5.0\DigitIncreasing.deps.json
+C:\Users\user\source\repos\someTricks\DigitIncreasing\bin\Debug\net5.0\DigitIncreasing.runtimeconfig.json
+C:\Users\user\source\repos\someTricks\DigitIncreasing\bin\Debug\net5.0\DigitIncreasing.runtimeconfig.dev.json
+C:\Users\user\source\repos\someTricks\DigitIncreasing\bin\Debug\net5.0\DigitIncreasing.dll
+C:\Users\user\source\repos\someTricks\DigitIncreasing\bin\Debug\net5.0\ref\DigitIncreasing.dll
+C:\Users\user\source\repos\someTricks\DigitIncreasing\bin\Debug\net5.0\DigitIncreasing.pdb
+C:\Users\user\source\repos\someTricks\DigitIncreasing\obj\Debug\net5.0\DigitIncreasing.csprojAssemblyReference.cache
+C:\Users\user\source\repos\someTricks\DigitIncreasing\obj\Debug\net5.0\DigitIncreasing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\someTricks\DigitIncreasing\obj\Debug\net5.0\DigitIncreasing.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\someTricks\DigitIncreasing\obj\Debug\net5.0\DigitIncreasing.AssemblyInfo.cs
+C:\Users\user\source\repos\someTricks\DigitIncreasing\obj\Debug\net5.0\DigitIncreasing.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\someTricks\DigitIncreasing\obj\Debug\net5.0\DigitIncreasing.dll
+C:\Users\user\source\repos\someTricks\DigitIncreasing\obj\Debug\net5.0\ref\DigitIncreasing.dll
+C:\Users\user\source\repos\someTricks\DigitIncreasing\obj\Debug\net5.0\DigitIncreasing.pdb
+C:\Users\user\source\repos\someTricks\DigitIncreasing\obj\Debug\net5.0\DigitIncreasing.genruntimeconfig.cache

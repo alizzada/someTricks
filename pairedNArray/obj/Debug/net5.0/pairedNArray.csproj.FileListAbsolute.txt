@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\someTricks\pairedNArray\bin\Debug\net5.0\pairedNArray.exe
+C:\Users\user\source\repos\someTricks\pairedNArray\bin\Debug\net5.0\pairedNArray.deps.json
+C:\Users\user\source\repos\someTricks\pairedNArray\bin\Debug\net5.0\pairedNArray.runtimeconfig.json
+C:\Users\user\source\repos\someTricks\pairedNArray\bin\Debug\net5.0\pairedNArray.runtimeconfig.dev.json
+C:\Users\user\source\repos\someTricks\pairedNArray\bin\Debug\net5.0\pairedNArray.dll
+C:\Users\user\source\repos\someTricks\pairedNArray\bin\Debug\net5.0\ref\pairedNArray.dll
+C:\Users\user\source\repos\someTricks\pairedNArray\bin\Debug\net5.0\pairedNArray.pdb
+C:\Users\user\source\repos\someTricks\pairedNArray\obj\Debug\net5.0\pairedNArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\someTricks\pairedNArray\obj\Debug\net5.0\pairedNArray.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\someTricks\pairedNArray\obj\Debug\net5.0\pairedNArray.AssemblyInfo.cs
+C:\Users\user\source\repos\someTricks\pairedNArray\obj\Debug\net5.0\pairedNArray.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\someTricks\pairedNArray\obj\Debug\net5.0\pairedNArray.dll
+C:\Users\user\source\repos\someTricks\pairedNArray\obj\Debug\net5.0\ref\pairedNArray.dll
+C:\Users\user\source\repos\someTricks\pairedNArray\obj\Debug\net5.0\pairedNArray.pdb
+C:\Users\user\source\repos\someTricks\pairedNArray\obj\Debug\net5.0\pairedNArray.genruntimeconfig.cache
+C:\Users\user\source\repos\someTricks\pairedNArray\obj\Debug\net5.0\pairedNArray.csprojAssemblyReference.cache
