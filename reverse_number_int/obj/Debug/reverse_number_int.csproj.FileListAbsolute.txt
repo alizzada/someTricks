@@ -4,3 +4,10 @@ C:\Users\Ali.Alizada\source\repos\ConsoleApp4\reverse_number_int\bin\Debug\rever
 C:\Users\Ali.Alizada\source\repos\ConsoleApp4\reverse_number_int\obj\Debug\reverse_number_int.csproj.CoreCompileInputs.cache
 C:\Users\Ali.Alizada\source\repos\ConsoleApp4\reverse_number_int\obj\Debug\reverse_number_int.exe
 C:\Users\Ali.Alizada\source\repos\ConsoleApp4\reverse_number_int\obj\Debug\reverse_number_int.pdb
+C:\Users\user\source\repos\someTricks\reverse_number_int\bin\Debug\reverse_number_int.exe.config
+C:\Users\user\source\repos\someTricks\reverse_number_int\bin\Debug\reverse_number_int.exe
+C:\Users\user\source\repos\someTricks\reverse_number_int\bin\Debug\reverse_number_int.pdb
+C:\Users\user\source\repos\someTricks\reverse_number_int\obj\Debug\reverse_number_int.csprojAssemblyReference.cache
+C:\Users\user\source\repos\someTricks\reverse_number_int\obj\Debug\reverse_number_int.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\someTricks\reverse_number_int\obj\Debug\reverse_number_int.exe
+C:\Users\user\source\repos\someTricks\reverse_number_int\obj\Debug\reverse_number_int.pdb

@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\someTricks\EquilibriumIndexOfArray\bin\Debug\net5.0\EquilibriumIndexOfArray.exe
+C:\Users\user\source\repos\someTricks\EquilibriumIndexOfArray\bin\Debug\net5.0\EquilibriumIndexOfArray.deps.json
+C:\Users\user\source\repos\someTricks\EquilibriumIndexOfArray\bin\Debug\net5.0\EquilibriumIndexOfArray.runtimeconfig.json
+C:\Users\user\source\repos\someTricks\EquilibriumIndexOfArray\bin\Debug\net5.0\EquilibriumIndexOfArray.runtimeconfig.dev.json
+C:\Users\user\source\repos\someTricks\EquilibriumIndexOfArray\bin\Debug\net5.0\EquilibriumIndexOfArray.dll
+C:\Users\user\source\repos\someTricks\EquilibriumIndexOfArray\bin\Debug\net5.0\ref\EquilibriumIndexOfArray.dll
+C:\Users\user\source\repos\someTricks\EquilibriumIndexOfArray\bin\Debug\net5.0\EquilibriumIndexOfArray.pdb
+C:\Users\user\source\repos\someTricks\EquilibriumIndexOfArray\obj\Debug\net5.0\EquilibriumIndexOfArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\someTricks\EquilibriumIndexOfArray\obj\Debug\net5.0\EquilibriumIndexOfArray.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\someTricks\EquilibriumIndexOfArray\obj\Debug\net5.0\EquilibriumIndexOfArray.AssemblyInfo.cs
+C:\Users\user\source\repos\someTricks\EquilibriumIndexOfArray\obj\Debug\net5.0\EquilibriumIndexOfArray.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\someTricks\EquilibriumIndexOfArray\obj\Debug\net5.0\EquilibriumIndexOfArray.dll
+C:\Users\user\source\repos\someTricks\EquilibriumIndexOfArray\obj\Debug\net5.0\ref\EquilibriumIndexOfArray.dll
+C:\Users\user\source\repos\someTricks\EquilibriumIndexOfArray\obj\Debug\net5.0\EquilibriumIndexOfArray.pdb
+C:\Users\user\source\repos\someTricks\EquilibriumIndexOfArray\obj\Debug\net5.0\EquilibriumIndexOfArray.genruntimeconfig.cache

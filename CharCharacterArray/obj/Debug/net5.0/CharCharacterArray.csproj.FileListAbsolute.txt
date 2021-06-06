@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\someTricks\CharCharacterArray\bin\Debug\net5.0\CharCharacterArray.exe
+C:\Users\user\source\repos\someTricks\CharCharacterArray\bin\Debug\net5.0\CharCharacterArray.deps.json
+C:\Users\user\source\repos\someTricks\CharCharacterArray\bin\Debug\net5.0\CharCharacterArray.runtimeconfig.json
+C:\Users\user\source\repos\someTricks\CharCharacterArray\bin\Debug\net5.0\CharCharacterArray.runtimeconfig.dev.json
+C:\Users\user\source\repos\someTricks\CharCharacterArray\bin\Debug\net5.0\CharCharacterArray.dll
+C:\Users\user\source\repos\someTricks\CharCharacterArray\bin\Debug\net5.0\ref\CharCharacterArray.dll
+C:\Users\user\source\repos\someTricks\CharCharacterArray\bin\Debug\net5.0\CharCharacterArray.pdb
+C:\Users\user\source\repos\someTricks\CharCharacterArray\obj\Debug\net5.0\CharCharacterArray.csprojAssemblyReference.cache
+C:\Users\user\source\repos\someTricks\CharCharacterArray\obj\Debug\net5.0\CharCharacterArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\someTricks\CharCharacterArray\obj\Debug\net5.0\CharCharacterArray.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\someTricks\CharCharacterArray\obj\Debug\net5.0\CharCharacterArray.AssemblyInfo.cs
+C:\Users\user\source\repos\someTricks\CharCharacterArray\obj\Debug\net5.0\CharCharacterArray.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\someTricks\CharCharacterArray\obj\Debug\net5.0\CharCharacterArray.dll
+C:\Users\user\source\repos\someTricks\CharCharacterArray\obj\Debug\net5.0\ref\CharCharacterArray.dll
+C:\Users\user\source\repos\someTricks\CharCharacterArray\obj\Debug\net5.0\CharCharacterArray.pdb
+C:\Users\user\source\repos\someTricks\CharCharacterArray\obj\Debug\net5.0\CharCharacterArray.genruntimeconfig.cache

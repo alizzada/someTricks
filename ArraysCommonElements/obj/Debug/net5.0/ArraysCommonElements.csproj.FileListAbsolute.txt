@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\someTricks\ArraysCommonElements\bin\Debug\net5.0\ArraysCommonElements.exe
+C:\Users\user\source\repos\someTricks\ArraysCommonElements\bin\Debug\net5.0\ArraysCommonElements.deps.json
+C:\Users\user\source\repos\someTricks\ArraysCommonElements\bin\Debug\net5.0\ArraysCommonElements.runtimeconfig.json
+C:\Users\user\source\repos\someTricks\ArraysCommonElements\bin\Debug\net5.0\ArraysCommonElements.runtimeconfig.dev.json
+C:\Users\user\source\repos\someTricks\ArraysCommonElements\bin\Debug\net5.0\ArraysCommonElements.dll
+C:\Users\user\source\repos\someTricks\ArraysCommonElements\bin\Debug\net5.0\ref\ArraysCommonElements.dll
+C:\Users\user\source\repos\someTricks\ArraysCommonElements\bin\Debug\net5.0\ArraysCommonElements.pdb
+C:\Users\user\source\repos\someTricks\ArraysCommonElements\obj\Debug\net5.0\ArraysCommonElements.csprojAssemblyReference.cache
+C:\Users\user\source\repos\someTricks\ArraysCommonElements\obj\Debug\net5.0\ArraysCommonElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\someTricks\ArraysCommonElements\obj\Debug\net5.0\ArraysCommonElements.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\someTricks\ArraysCommonElements\obj\Debug\net5.0\ArraysCommonElements.AssemblyInfo.cs
+C:\Users\user\source\repos\someTricks\ArraysCommonElements\obj\Debug\net5.0\ArraysCommonElements.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\someTricks\ArraysCommonElements\obj\Debug\net5.0\ArraysCommonElements.dll
+C:\Users\user\source\repos\someTricks\ArraysCommonElements\obj\Debug\net5.0\ref\ArraysCommonElements.dll
+C:\Users\user\source\repos\someTricks\ArraysCommonElements\obj\Debug\net5.0\ArraysCommonElements.pdb
+C:\Users\user\source\repos\someTricks\ArraysCommonElements\obj\Debug\net5.0\ArraysCommonElements.genruntimeconfig.cache
