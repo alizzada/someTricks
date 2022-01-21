@@ -6,7 +6,7 @@ namespace DigitIncreasing
     {
         static void Main(string[] args)
         {
-			int n = 10;
+			int n = 12;
             Console.WriteLine(CheckNumber(n));
         }
 
@@ -20,7 +20,7 @@ namespace DigitIncreasing
 			}				
 				
 
-			int sum = 0, previusNumber =0;
+			int sum , previusNumber;
 
 
 			for (int i = 1; i <= 9; i++)

@@ -11,7 +11,7 @@ namespace prime_numbers
         static void Main(string[] args)
         {
             int i, k;
-            bool result=true;
+            bool result=false;
             int number = int.Parse(Console.ReadLine());
             for ( i = 2; i <number; i++)
             {
@@ -19,7 +19,7 @@ namespace prime_numbers
                 {
                     if (i != k && i % k == 0)
                     {
-                        result = false;
+                        result = true;
                         break;
                     }
                         
@@ -28,7 +28,7 @@ namespace prime_numbers
                 {
                     Console.WriteLine(i);
                 }
-                result = true;
+                result = false;
             }
             
             Console.ReadLine();

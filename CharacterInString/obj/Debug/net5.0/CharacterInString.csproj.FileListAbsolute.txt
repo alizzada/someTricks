@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\someTricks\CharacterInString\bin\Debug\net5.0\CharacterInString.exe
+C:\Users\user\source\repos\someTricks\CharacterInString\bin\Debug\net5.0\CharacterInString.deps.json
+C:\Users\user\source\repos\someTricks\CharacterInString\bin\Debug\net5.0\CharacterInString.runtimeconfig.json
+C:\Users\user\source\repos\someTricks\CharacterInString\bin\Debug\net5.0\CharacterInString.runtimeconfig.dev.json
+C:\Users\user\source\repos\someTricks\CharacterInString\bin\Debug\net5.0\CharacterInString.dll
+C:\Users\user\source\repos\someTricks\CharacterInString\bin\Debug\net5.0\ref\CharacterInString.dll
+C:\Users\user\source\repos\someTricks\CharacterInString\bin\Debug\net5.0\CharacterInString.pdb
+C:\Users\user\source\repos\someTricks\CharacterInString\obj\Debug\net5.0\CharacterInString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\someTricks\CharacterInString\obj\Debug\net5.0\CharacterInString.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\someTricks\CharacterInString\obj\Debug\net5.0\CharacterInString.AssemblyInfo.cs
+C:\Users\user\source\repos\someTricks\CharacterInString\obj\Debug\net5.0\CharacterInString.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\someTricks\CharacterInString\obj\Debug\net5.0\CharacterInString.dll
+C:\Users\user\source\repos\someTricks\CharacterInString\obj\Debug\net5.0\ref\CharacterInString.dll
+C:\Users\user\source\repos\someTricks\CharacterInString\obj\Debug\net5.0\CharacterInString.pdb
+C:\Users\user\source\repos\someTricks\CharacterInString\obj\Debug\net5.0\CharacterInString.genruntimeconfig.cache

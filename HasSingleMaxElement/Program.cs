@@ -8,11 +8,11 @@ namespace HasSingleMaxElement
         {
             int[] a = new int[] {-6,-6,-6,-6,-6};
 
-            Console.WriteLine(hasSingleMax(a));
+            Console.WriteLine(HasSingleMax(a));
         }
 
 
-        private static int hasSingleMax(int[] a)
+        private static int HasSingleMax(int[] a)
         {
 
             if (a == null || a.Length == 0)

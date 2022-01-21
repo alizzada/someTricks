@@ -13,3 +13,4 @@ C:\Users\user\source\repos\someTricks\EquilibriumIndexOfArray\obj\Debug\net5.0\E
 C:\Users\user\source\repos\someTricks\EquilibriumIndexOfArray\obj\Debug\net5.0\ref\EquilibriumIndexOfArray.dll
 C:\Users\user\source\repos\someTricks\EquilibriumIndexOfArray\obj\Debug\net5.0\EquilibriumIndexOfArray.pdb
 C:\Users\user\source\repos\someTricks\EquilibriumIndexOfArray\obj\Debug\net5.0\EquilibriumIndexOfArray.genruntimeconfig.cache
+C:\Users\user\source\repos\someTricks\EquilibriumIndexOfArray\obj\Debug\net5.0\EquilibriumIndexOfArray.csproj.AssemblyReference.cache
